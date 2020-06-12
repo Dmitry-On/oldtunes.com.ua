@@ -1,0 +1,35 @@
+2020-06-10T16:43:27+00:00 CRITICAL Uncaught Error: Class 'deliveryplugin\Ukrposhta\classes\ukrposhtaShipping' not found in D:\IT\OpenServer\domains\oldtunes.com.ua\wp-content\plugins\woo-ukrposhta\morkvaup-plugin.php:35
+Stack trace:
+#0 D:\IT\OpenServer\domains\oldtunes.com.ua\wp-admin\includes\plugin.php(659): include_once()
+#1 D:\IT\OpenServer\domains\oldtunes.com.ua\wp-admin\plugins.php(44): activate_plugin('woo-ukrposhta/m...', 'https://oldtune...', false)
+#2 {main}
+  thrown в D:\IT\OpenServer\domains\oldtunes.com.ua\wp-content\plugins\woo-ukrposhta\morkvaup-plugin.php на строке 35
+
+2020-06-10T16:45:52+00:00 CRITICAL Uncaught Error: Class 'deliveryplugin\Ukrposhta\classes\ukrposhtaShipping' not found in D:\IT\OpenServer\domains\oldtunes.com.ua\wp-content\plugins\woo-ukrposhta\morkvaup-plugin.php:35
+Stack trace:
+#0 D:\IT\OpenServer\domains\oldtunes.com.ua\wp-admin\includes\plugin.php(659): include_once()
+#1 D:\IT\OpenServer\domains\oldtunes.com.ua\wp-admin\plugins.php(44): activate_plugin('woo-ukrposhta/m...', 'https://oldtune...', false)
+#2 {main}
+  thrown в D:\IT\OpenServer\domains\oldtunes.com.ua\wp-content\plugins\woo-ukrposhta\morkvaup-plugin.php на строке 35
+
+2020-06-10T16:46:02+00:00 CRITICAL Uncaught Error: Class 'deliveryplugin\Ukrposhta\classes\ukrposhtaShipping' not found in D:\IT\OpenServer\domains\oldtunes.com.ua\wp-content\plugins\woo-ukrposhta\morkvaup-plugin.php:35
+Stack trace:
+#0 D:\IT\OpenServer\domains\oldtunes.com.ua\wp-admin\includes\plugin.php(2255): include()
+#1 D:\IT\OpenServer\domains\oldtunes.com.ua\wp-admin\plugins.php(177): plugin_sandbox_scrape('woo-ukrposhta/m...')
+#2 {main}
+  thrown в D:\IT\OpenServer\domains\oldtunes.com.ua\wp-content\plugins\woo-ukrposhta\morkvaup-plugin.php на строке 35
+
+2020-06-10T16:47:28+00:00 CRITICAL Uncaught Error: Class 'deliveryplugin\Ukrposhta\classes\ukrposhtaShipping' not found in D:\IT\OpenServer\domains\oldtunes.com.ua\wp-content\plugins\woo-ukrposhta\morkvaup-plugin.php:35
+Stack trace:
+#0 D:\IT\OpenServer\domains\oldtunes.com.ua\wp-admin\includes\plugin.php(659): include_once()
+#1 D:\IT\OpenServer\domains\oldtunes.com.ua\wp-admin\plugins.php(44): activate_plugin('woo-ukrposhta/m...', 'https://oldtune...', false)
+#2 {main}
+  thrown в D:\IT\OpenServer\domains\oldtunes.com.ua\wp-content\plugins\woo-ukrposhta\morkvaup-plugin.php на строке 35
+
+2020-06-10T16:47:37+00:00 CRITICAL Uncaught Error: Class 'deliveryplugin\Ukrposhta\classes\ukrposhtaShipping' not found in D:\IT\OpenServer\domains\oldtunes.com.ua\wp-content\plugins\woo-ukrposhta\morkvaup-plugin.php:35
+Stack trace:
+#0 D:\IT\OpenServer\domains\oldtunes.com.ua\wp-admin\includes\plugin.php(2255): include()
+#1 D:\IT\OpenServer\domains\oldtunes.com.ua\wp-admin\plugins.php(177): plugin_sandbox_scrape('woo-ukrposhta/m...')
+#2 {main}
+  thrown в D:\IT\OpenServer\domains\oldtunes.com.ua\wp-content\plugins\woo-ukrposhta\morkvaup-plugin.php на строке 35
+
